@@ -3,7 +3,7 @@ Generate answers for NYT spelling bee.
 
 Try it out.
 
-Install with `r remotes::install_github(dhope/IhateNYTSpellBee)`. Also requires `stringr`, `words` and `glue`.
+Install with `remotes::install_github(dhope/IhateNYTSpellBee)`. Also requires `stringr`, `words` and `glue`.
 
 then...
 
