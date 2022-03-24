@@ -1,4 +1,4 @@
-Package: IhateNYTSpellBee
+Package: NYTSpellBeeSolver
 Type: Package
 Title: Generate answers for NYT Spelling Bee
 Version: 0.1.0
