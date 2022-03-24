@@ -1,4 +1,4 @@
-# IhateNYTSpellBee
+# NYTSpellBeeSolver
 Generate answers for NYT spelling bee.
 
 Try it out.
